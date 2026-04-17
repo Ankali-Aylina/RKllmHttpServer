@@ -1,0 +1,5 @@
+# 忽略build
+build/
+
+# 忽略model
+model/
