@@ -1,5 +1,7 @@
 # RKLLM HTTP Server
 
+>本库已停止维护，新版本仓库地址![RKServer](https://github.com/Ankali-Aylina/RKServer)
+
 基于 C++ 的高性能 HTTP 服务，为 Rockchip RK3588（如 Orange Pi 5 Plus）的 NPU 提供 OpenAI 兼容的 LLM 推理接口。  
 通过 Crow Web 框架对外提供 REST API，直接调用 RKLLM C++ 运行时库，实现低延迟、高吞吐的本地大模型服务。
 
